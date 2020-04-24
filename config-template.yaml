@@ -1,0 +1,5 @@
+host:           domain.com
+query_login:    login
+query_password: fejasi
+query_port:     1001
+sid:            0
